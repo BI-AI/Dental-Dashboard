@@ -1,2 +1,3 @@
 # Dental-Dashboard
-A better Dental Dashboard using D4W reports
+Creating a better Dental Dashboard using D4W reports
+
